@@ -14,7 +14,7 @@ cd Dog-Breed-Classifier/
 
 conda install numpy pandas matplotlib
 
-conda install 
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 ```
 
