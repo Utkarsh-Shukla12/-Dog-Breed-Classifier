@@ -4,7 +4,7 @@ Who's a good dog? Who likes ear scratches? Well, it seems those fancy deep neura
 
 In this project, I build and define a neural network from scratch and use ResNet 50 to classify/identify dog breeds, How well you can tell your Norfolk Terriers from your Norwich Terriers? With 120 breeds of dogs and a limited number training images per class, we might find the problem more, err, ruff than we all anticipated.
 
-Still I achieved an ** Accuracy of 93% with ResNet 50** and 16% with CNN model built from scratch.
+Still I achieved an **Accuracy of 93% with ResNet 50** and 16% with CNN model built from scratch.
 
 ## Installation 
 
