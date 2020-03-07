@@ -37,3 +37,4 @@ If you are instrested in contributing or to make any change. Please create a pul
 
 ## License
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+Refer to the License file for more info. [Here](https://github.com/Utkarsh-Shukla12/Dog-Breed-Classifier/blob/master/LICENSE)
