@@ -8,13 +8,16 @@ Still I achieved an **Accuracy of 93% with ResNet 50** and 16% with CNN model bu
 
 ## Installation 
 
-```git clone https://github.com/Utkarsh-Shukla12/Dog-Breed-Classifier/
+```
+git clone https://github.com/Utkarsh-Shukla12/Dog-Breed-Classifier
 
 cd Dog-Breed-Classifier/
 
 conda install numpy pandas matplotlib
 
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+
+jupyter notebook
 
 ```
 
@@ -26,14 +29,14 @@ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
-## Author
-I hereby claim that the above code has been written by me and i take full responsiblity of the code.
+## Author's Note
+Hey Folks, I have completed this project as the second requirement towards my Deep Learning Nanodegree. Please feel free to create a pull request & desccribe that particular function can be written efficently.
 
-**Utkarsh Shukla**
+**Utkarsh Shukla** 
 
 ## How to Contribute
 
-If you are instrested in contributing or to make any change. Please create a pull request. :)
+Please create a pull request. I'll be delighted to collaborate with you guys. :)
 
 ## License
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
